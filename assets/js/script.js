@@ -145,6 +145,3 @@ const scriptURL = 'https://script.google.com/macros/s/AKfycbwmTvRRYKVmPfNg8shBlp
       .catch(error => console.error('Error!', error.message))
 })
 
-
-
-

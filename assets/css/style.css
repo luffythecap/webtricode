@@ -271,6 +271,7 @@ body.nav-active {overflow: hidden;}
   #HEADER
 \*-----------------------------------*/
 
+
 .prop{color:#D8D8D8 ;}
 
 .header .btn { display: none;}
@@ -394,6 +395,8 @@ body.nav-active {overflow: hidden;}
 /*-----------------------------------*\
   #HERO
 \*-----------------------------------*/
+
+
 
 
 .hero{
@@ -591,7 +594,7 @@ body.nav-active {overflow: hidden;}
 
 .feature .container {
   display:grid;
-  gap: 50px;
+  gap: 70px;
 }
 
 .feature .section-text { margin-block: 20px 30px  ;}
@@ -896,6 +899,8 @@ body.nav-active {overflow: hidden;}
     margin-inline: auto;
   }
   .project-card .card-content {padding: 40px;}
+  
+
 
 }
 
